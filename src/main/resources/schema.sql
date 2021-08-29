@@ -1,0 +1,1 @@
+create table if not exists customers (id serial primary key, first_name text, last_name text);
